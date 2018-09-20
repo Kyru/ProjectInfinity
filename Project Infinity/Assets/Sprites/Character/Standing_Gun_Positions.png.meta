@@ -1,9 +1,40 @@
 fileFormatVersion: 2
 guid: 436214cd5c1614ba1a8a2f15bc27c1e5
-timeCreated: 1537438938
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Standing_Gun_Positions_0
+    21300002: Standing_Gun_Positions_1
+    21300004: Standing_Gun_Positions_2
+    21300006: Standing_Gun_Positions_3
+    21300008: Standing_Gun_Positions_4
+    21300010: Standing_Gun_Positions_5
+    21300012: Standing_Gun_Positions_6
+    21300014: Standing_Gun_Positions_7
+    21300016: Standing_Gun_Positions_8
+    21300018: Standing_Gun_Positions_9
+    21300020: Standing_Gun_Positions_10
+    21300022: Standing_Gun_Positions_11
+    21300024: Standing_Gun_Positions_12
+    21300026: Standing_Gun_Positions_13
+    21300028: Standing_Gun_Positions_14
+    21300030: Standing_Gun_Positions_15
+    21300032: Standing_Gun_Positions_16
+    21300034: Standing_Gun_Positions_17
+    21300036: Standing_Gun_Positions_18
+    21300038: Standing_Gun_Positions_19
+    21300040: Standing_Gun_Positions_20
+    21300042: Standing_Gun_Positions_21
+    21300044: Standing_Gun_Positions_22
+    21300046: Standing_Gun_Positions_23
+    21300048: Standing_Gun_Positions_24
+    21300050: Standing_Gun_Positions_25
+    21300052: Standing_Gun_Positions_26
+    21300054: Standing_Gun_Positions_27
+    21300056: Standing_Gun_Positions_28
+    21300058: Standing_Gun_Positions_29
+    21300060: Standing_Gun_Positions_30
+    21300062: Standing_Gun_Positions_31
+    21300064: Standing_Gun_Positions_32
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -31,7 +62,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -1
     wrapU: 1
@@ -40,7 +71,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +98,187 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 81
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 81
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 81
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 81
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_Gun_Positions_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
